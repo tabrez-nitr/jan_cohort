@@ -27,7 +27,7 @@ from passlib.context import CryptContext
 from jose import jwt, JWTError
 from datetime import datetime, timedelta
 
-
+app = FastAPI()
 
 # ---------------- DATABASE ----------------
 DATABASE_URL = "sqlite:///./users.db"
@@ -75,7 +75,9 @@ oauth2_scheme = OAuth2PasswordBearer(tokenUrl="login")
 revoked_tokens = set()
 
 # ---------------- HOME ----------------
-
+@app.get("/")
+def home():
+    return {"message": "Backend running"}
 
 # ---------------- SIGNUP (NO JSON) ----------------
 @app.post("/signup")

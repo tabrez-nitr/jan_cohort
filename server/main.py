@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel 
+from routers.upload import router as upload_router
 # for data validation (like schema)
 
 app = FastAPI()
@@ -155,5 +156,8 @@ def logout(data: tuple = Depends(get_current_user)):
     _, token = data
     revoked_tokens.add(token)
     return {"message": "Logged out successfully"}
+# includes file upload route
+app.include_router(upload_router)
+    
 
 

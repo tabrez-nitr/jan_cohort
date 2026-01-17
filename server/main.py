@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel 
+from routers.upload import router as upload_router
 # for data validation (like schema)
 
 app = FastAPI()
@@ -18,5 +19,9 @@ app.add_middleware(
 @app.get("/")
 def read_root():
     return {"message" : "welcome to the jan cohort api"}
+
+# includes file upload route
+app.include_router(upload_router)
+    
 
 

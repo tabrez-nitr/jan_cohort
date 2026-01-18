@@ -62,7 +62,7 @@ export default function Footer() {
 
                 <div className="flex flex-col md:flex-row justify-between items-center">
                     <p className="text-sm text-muted-foreground mb-4 md:mb-0">
-                        © 2024 WeVolve Inc. All rights reserved.
+                        © 2026 WeVolve Inc. All rights reserved.
                     </p>
                     <div className="flex space-x-6 text-sm text-muted-foreground">
                         <a href="#" className="hover:text-foreground transition-colors">Privacy Policy</a>

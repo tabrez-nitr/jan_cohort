@@ -75,7 +75,7 @@ def calculate_years_experience(exp_text):
 def mock_parse_resume(text):
     data = {}
     
-    # --- 1. Basic Fields (Name, Email, Phone) ---
+    # ---  Basic Fields (Name, Email, Phone) ---
     # (Same logic as before)
     email_pattern = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
     email_match = re.search(email_pattern, text)
@@ -93,7 +93,7 @@ def mock_parse_resume(text):
     else:
         data["name"] = {"value": "", "confidence": 0}
 
-    # --- 2. Skills Extraction ---
+    # ---  Skills Extraction ---
     found_skills = []
     for skill in KNOWN_SKILLS:
         if re.search(r'\b' + re.escape(skill) + r'\b', text, re.IGNORECASE):
@@ -101,7 +101,7 @@ def mock_parse_resume(text):
     data["skills"] = {"value": found_skills, "confidence": 90 if len(found_skills) > 2 else 50}
 
 
-    # --- 3. Work Experience (The Hard Part) ---
+    # --- Work Experience (The Hard Part) ---
     # Step A: Extract the raw text block for "Experience"
     exp_text = extract_section(text, ["EXPERIENCE", "WORK HISTORY", "EMPLOYMENT"])
     
@@ -126,7 +126,7 @@ def mock_parse_resume(text):
     }
 
 
-    # --- 4. Education Extraction ---
+    # ---  Education Extraction ---
     edu_text = extract_section(text, ["EDUCATION", "QUALIFICATION", "ACADEMIC"])
     
     # Heuristic: Look for degree keywords
@@ -139,7 +139,7 @@ def mock_parse_resume(text):
     }
 
 
-    # --- 5. Projects Extraction ---
+    # ---  Projects Extraction ---
     proj_text = extract_section(text, ["PROJECTS", "PERSONAL PROJECTS"])
     
     data["projects"] = {

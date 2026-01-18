@@ -1,0 +1,1118 @@
+[
+  {
+    "id": "job-1",
+    "title": "Data Scientist",
+    "company": "TechCorp",
+    "location": "Chennai, TN",
+    "type": "Part-time",
+    "salary": "₹5L - ₹14L PA",
+    "minSalary": 5,
+    "minExperience": 7,
+    "postedAt": "12 days ago",
+    "matchScore": 89,
+    "skills": [
+      "React",
+      "Kubernetes"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Freshworks&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-2",
+    "title": "Full Stack Developer",
+    "company": "AppWorks",
+    "location": "Pune, MH",
+    "type": "Freelance",
+    "salary": "₹3L - ₹10L PA",
+    "minSalary": 3,
+    "minExperience": 5,
+    "postedAt": "9 days ago",
+    "matchScore": 61,
+    "skills": [
+      "Next.js",
+      "Java",
+      "Python",
+      "Flutter"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Zoho&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-3",
+    "title": "Data Scientist",
+    "company": "Infosys",
+    "location": "Noida, UP",
+    "type": "Full-time",
+    "salary": "₹11L - ₹17L PA",
+    "minSalary": 11,
+    "minExperience": 2,
+    "postedAt": "8 days ago",
+    "matchScore": 79,
+    "skills": [
+      "Java",
+      "Figma",
+      "GraphQL",
+      "SQL",
+      "Tailwind CSS"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=CreativeStudio&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-4",
+    "title": "UI/UX Designer",
+    "company": "DataMinds",
+    "location": "Mumbai, MH",
+    "type": "Contract",
+    "salary": "₹5L - ₹8L PA",
+    "minSalary": 5,
+    "minExperience": 6,
+    "postedAt": "13 days ago",
+    "matchScore": 62,
+    "skills": [
+      "Figma",
+      "Flutter",
+      "Next.js"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Wipro&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-5",
+    "title": "DevOps Engineer",
+    "company": "InnovateX",
+    "location": "Remote",
+    "type": "Freelance",
+    "salary": "₹12L - ₹20L PA",
+    "minSalary": 12,
+    "minExperience": 3,
+    "postedAt": "7 days ago",
+    "matchScore": 97,
+    "skills": [
+      "AWS",
+      "Kubernetes",
+      "TypeScript",
+      "Java"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TechCorp&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-6",
+    "title": "UI/UX Designer",
+    "company": "AppWorks",
+    "location": "Hyderabad, TS",
+    "type": "Full-time",
+    "salary": "₹12L - ₹25L PA",
+    "minSalary": 12,
+    "minExperience": 3,
+    "postedAt": "12 days ago",
+    "matchScore": 95,
+    "skills": [
+      "TypeScript",
+      "Python",
+      "Kubernetes",
+      "SQL"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=InnovateX&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-7",
+    "title": "QA Engineer",
+    "company": "Wipro",
+    "location": "Hyderabad, TS",
+    "type": "Full-time",
+    "salary": "₹6L - ₹13L PA",
+    "minSalary": 6,
+    "minExperience": 5,
+    "postedAt": "6 days ago",
+    "matchScore": 85,
+    "skills": [
+      "Flutter",
+      "SQL",
+      "Next.js",
+      "GraphQL",
+      "Figma"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TCS&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-8",
+    "title": "Mobile App Developer",
+    "company": "Infosys",
+    "location": "Bangalore, KA",
+    "type": "Freelance",
+    "salary": "₹4L - ₹11L PA",
+    "minSalary": 4,
+    "minExperience": 6,
+    "postedAt": "6 days ago",
+    "matchScore": 66,
+    "skills": [
+      "Docker",
+      "Figma",
+      "Java",
+      "TypeScript",
+      "Python"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Zoho&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-9",
+    "title": "Full Stack Developer",
+    "company": "CreativeStudio",
+    "location": "Noida, UP",
+    "type": "Part-time",
+    "salary": "₹4L - ₹17L PA",
+    "minSalary": 4,
+    "minExperience": 0,
+    "postedAt": "8 days ago",
+    "matchScore": 76,
+    "skills": [
+      "AWS",
+      "React"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=DataMinds&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-10",
+    "title": "Product Manager",
+    "company": "Wipro",
+    "location": "Gurgaon, HR",
+    "type": "Part-time",
+    "salary": "₹10L - ₹25L PA",
+    "minSalary": 10,
+    "minExperience": 2,
+    "postedAt": "2 days ago",
+    "matchScore": 77,
+    "skills": [
+      "Spring Boot",
+      "Docker",
+      "React"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Zoho&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-11",
+    "title": "Frontend Developer",
+    "company": "AppWorks",
+    "location": "Chennai, TN",
+    "type": "Part-time",
+    "salary": "₹5L - ₹14L PA",
+    "minSalary": 5,
+    "minExperience": 5,
+    "postedAt": "6 days ago",
+    "matchScore": 80,
+    "skills": [
+      "React",
+      "Python"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=DataMinds&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-12",
+    "title": "UI/UX Designer",
+    "company": "CreativeStudio",
+    "location": "Chennai, TN",
+    "type": "Freelance",
+    "salary": "₹9L - ₹17L PA",
+    "minSalary": 9,
+    "minExperience": 5,
+    "postedAt": "2 days ago",
+    "matchScore": 67,
+    "skills": [
+      "AWS",
+      "Spring Boot",
+      "Next.js",
+      "Flutter",
+      "React"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Wipro&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-13",
+    "title": "Full Stack Developer",
+    "company": "Wipro",
+    "location": "Chennai, TN",
+    "type": "Part-time",
+    "salary": "₹10L - ₹19L PA",
+    "minSalary": 10,
+    "minExperience": 4,
+    "postedAt": "7 days ago",
+    "matchScore": 79,
+    "skills": [
+      "TypeScript",
+      "AWS",
+      "Flutter",
+      "Figma",
+      "Java"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TCS&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-14",
+    "title": "Data Scientist",
+    "company": "Infosys",
+    "location": "Chennai, TN",
+    "type": "Freelance",
+    "salary": "₹8L - ₹22L PA",
+    "minSalary": 8,
+    "minExperience": 2,
+    "postedAt": "3 days ago",
+    "matchScore": 72,
+    "skills": [
+      "Java",
+      "TypeScript",
+      "SQL"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Freshworks&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-15",
+    "title": "Backend Engineer",
+    "company": "Wipro",
+    "location": "Pune, MH",
+    "type": "Part-time",
+    "salary": "₹7L - ₹11L PA",
+    "minSalary": 7,
+    "minExperience": 6,
+    "postedAt": "4 days ago",
+    "matchScore": 84,
+    "skills": [
+      "Tailwind CSS",
+      "React"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TCS&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-16",
+    "title": "Full Stack Developer",
+    "company": "CloudNet",
+    "location": "Noida, UP",
+    "type": "Full-time",
+    "salary": "₹9L - ₹17L PA",
+    "minSalary": 9,
+    "minExperience": 5,
+    "postedAt": "6 days ago",
+    "matchScore": 82,
+    "skills": [
+      "React",
+      "Next.js",
+      "Spring Boot",
+      "SQL"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Infosys&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-17",
+    "title": "System Architect",
+    "company": "TechCorp",
+    "location": "Gurgaon, HR",
+    "type": "Full-time",
+    "salary": "₹8L - ₹23L PA",
+    "minSalary": 8,
+    "minExperience": 6,
+    "postedAt": "5 days ago",
+    "matchScore": 83,
+    "skills": [
+      "Python",
+      "Node.js",
+      "Tailwind CSS"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TechCorp&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-18",
+    "title": "Frontend Developer",
+    "company": "CreativeStudio",
+    "location": "Hyderabad, TS",
+    "type": "Freelance",
+    "salary": "₹12L - ₹20L PA",
+    "minSalary": 12,
+    "minExperience": 5,
+    "postedAt": "6 days ago",
+    "matchScore": 63,
+    "skills": [
+      "React",
+      "Flutter",
+      "Python"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=FutureSystems&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-19",
+    "title": "Backend Engineer",
+    "company": "CreativeStudio",
+    "location": "Bangalore, KA",
+    "type": "Freelance",
+    "salary": "₹8L - ₹16L PA",
+    "minSalary": 8,
+    "minExperience": 0,
+    "postedAt": "14 days ago",
+    "matchScore": 67,
+    "skills": [
+      "Python",
+      "AWS"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=CreativeStudio&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-20",
+    "title": "Product Manager",
+    "company": "Freshworks",
+    "location": "Remote",
+    "type": "Part-time",
+    "salary": "₹8L - ₹12L PA",
+    "minSalary": 8,
+    "minExperience": 7,
+    "postedAt": "9 days ago",
+    "matchScore": 97,
+    "skills": [
+      "GraphQL",
+      "Python"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=FutureSystems&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-21",
+    "title": "QA Engineer",
+    "company": "WebSolutions",
+    "location": "Bangalore, KA",
+    "type": "Part-time",
+    "salary": "₹7L - ₹21L PA",
+    "minSalary": 7,
+    "minExperience": 0,
+    "postedAt": "3 days ago",
+    "matchScore": 82,
+    "skills": [
+      "Docker",
+      "Node.js",
+      "Next.js"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=CreativeStudio&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-22",
+    "title": "UI/UX Designer",
+    "company": "InnovateX",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "₹11L - ₹16L PA",
+    "minSalary": 11,
+    "minExperience": 4,
+    "postedAt": "8 days ago",
+    "matchScore": 83,
+    "skills": [
+      "Figma",
+      "Kubernetes",
+      "GraphQL"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=CloudNet&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-23",
+    "title": "Backend Engineer",
+    "company": "Wipro",
+    "location": "Bangalore, KA",
+    "type": "Contract",
+    "salary": "₹3L - ₹13L PA",
+    "minSalary": 3,
+    "minExperience": 6,
+    "postedAt": "8 days ago",
+    "matchScore": 73,
+    "skills": [
+      "TypeScript",
+      "Docker",
+      "Kubernetes"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=CloudNet&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-24",
+    "title": "UI/UX Designer",
+    "company": "DataMinds",
+    "location": "Mumbai, MH",
+    "type": "Full-time",
+    "salary": "₹3L - ₹14L PA",
+    "minSalary": 3,
+    "minExperience": 3,
+    "postedAt": "10 days ago",
+    "matchScore": 93,
+    "skills": [
+      "Spring Boot",
+      "Figma",
+      "Java",
+      "React"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TechCorp&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-25",
+    "title": "Product Manager",
+    "company": "Freshworks",
+    "location": "Chennai, TN",
+    "type": "Freelance",
+    "salary": "₹7L - ₹15L PA",
+    "minSalary": 7,
+    "minExperience": 4,
+    "postedAt": "7 days ago",
+    "matchScore": 84,
+    "skills": [
+      "React",
+      "Flutter",
+      "Node.js"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TechCorp&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-26",
+    "title": "Frontend Developer",
+    "company": "Wipro",
+    "location": "Mumbai, MH",
+    "type": "Part-time",
+    "salary": "₹4L - ₹18L PA",
+    "minSalary": 4,
+    "minExperience": 6,
+    "postedAt": "8 days ago",
+    "matchScore": 92,
+    "skills": [
+      "SQL",
+      "Tailwind CSS",
+      "Java",
+      "Next.js",
+      "Flutter"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=InnovateX&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-27",
+    "title": "Backend Engineer",
+    "company": "DataMinds",
+    "location": "Delhi, NCR",
+    "type": "Freelance",
+    "salary": "₹9L - ₹16L PA",
+    "minSalary": 9,
+    "minExperience": 6,
+    "postedAt": "14 days ago",
+    "matchScore": 67,
+    "skills": [
+      "React",
+      "Node.js"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TCS&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-28",
+    "title": "Frontend Developer",
+    "company": "CreativeStudio",
+    "location": "Delhi, NCR",
+    "type": "Freelance",
+    "salary": "₹3L - ₹13L PA",
+    "minSalary": 3,
+    "minExperience": 4,
+    "postedAt": "4 days ago",
+    "matchScore": 91,
+    "skills": [
+      "Python",
+      "React",
+      "SQL",
+      "Next.js"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TechCorp&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-29",
+    "title": "Product Manager",
+    "company": "WebSolutions",
+    "location": "Gurgaon, HR",
+    "type": "Part-time",
+    "salary": "₹5L - ₹17L PA",
+    "minSalary": 5,
+    "minExperience": 7,
+    "postedAt": "8 days ago",
+    "matchScore": 91,
+    "skills": [
+      "Next.js",
+      "Node.js",
+      "Flutter",
+      "Java"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=DataMinds&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-30",
+    "title": "Product Manager",
+    "company": "Freshworks",
+    "location": "Bangalore, KA",
+    "type": "Part-time",
+    "salary": "₹11L - ₹25L PA",
+    "minSalary": 11,
+    "minExperience": 5,
+    "postedAt": "3 days ago",
+    "matchScore": 82,
+    "skills": [
+      "TypeScript",
+      "AWS"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=WebSolutions&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-31",
+    "title": "Data Scientist",
+    "company": "DataMinds",
+    "location": "Delhi, NCR",
+    "type": "Freelance",
+    "salary": "₹6L - ₹20L PA",
+    "minSalary": 6,
+    "minExperience": 2,
+    "postedAt": "9 days ago",
+    "matchScore": 77,
+    "skills": [
+      "GraphQL",
+      "React",
+      "Next.js",
+      "Docker"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TechCorp&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-32",
+    "title": "Data Scientist",
+    "company": "Zoho",
+    "location": "Noida, UP",
+    "type": "Contract",
+    "salary": "₹9L - ₹20L PA",
+    "minSalary": 9,
+    "minExperience": 3,
+    "postedAt": "7 days ago",
+    "matchScore": 91,
+    "skills": [
+      "Figma",
+      "Java",
+      "AWS"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=WebSolutions&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-33",
+    "title": "Full Stack Developer",
+    "company": "CloudNet",
+    "location": "Noida, UP",
+    "type": "Freelance",
+    "salary": "₹11L - ₹15L PA",
+    "minSalary": 11,
+    "minExperience": 5,
+    "postedAt": "3 days ago",
+    "matchScore": 92,
+    "skills": [
+      "Next.js",
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Python"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=FutureSystems&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-34",
+    "title": "Mobile App Developer",
+    "company": "FutureSystems",
+    "location": "Bangalore, KA",
+    "type": "Contract",
+    "salary": "₹3L - ₹19L PA",
+    "minSalary": 3,
+    "minExperience": 5,
+    "postedAt": "7 days ago",
+    "matchScore": 80,
+    "skills": [
+      "Python",
+      "Node.js",
+      "Docker"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Freshworks&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-35",
+    "title": "QA Engineer",
+    "company": "WebSolutions",
+    "location": "Chennai, TN",
+    "type": "Contract",
+    "salary": "₹8L - ₹22L PA",
+    "minSalary": 8,
+    "minExperience": 0,
+    "postedAt": "8 days ago",
+    "matchScore": 60,
+    "skills": [
+      "Tailwind CSS",
+      "Next.js"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=AppWorks&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-36",
+    "title": "QA Engineer",
+    "company": "DataMinds",
+    "location": "Pune, MH",
+    "type": "Contract",
+    "salary": "₹11L - ₹16L PA",
+    "minSalary": 11,
+    "minExperience": 2,
+    "postedAt": "2 days ago",
+    "matchScore": 76,
+    "skills": [
+      "Docker",
+      "Java",
+      "Node.js",
+      "AWS",
+      "Python"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Freshworks&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-37",
+    "title": "QA Engineer",
+    "company": "TechCorp",
+    "location": "Noida, UP",
+    "type": "Part-time",
+    "salary": "₹12L - ₹22L PA",
+    "minSalary": 12,
+    "minExperience": 2,
+    "postedAt": "14 days ago",
+    "matchScore": 92,
+    "skills": [
+      "React",
+      "Kubernetes",
+      "TypeScript",
+      "Node.js",
+      "Tailwind CSS"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=CreativeStudio&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-38",
+    "title": "Data Scientist",
+    "company": "WebSolutions",
+    "location": "Delhi, NCR",
+    "type": "Freelance",
+    "salary": "₹12L - ₹24L PA",
+    "minSalary": 12,
+    "minExperience": 1,
+    "postedAt": "14 days ago",
+    "matchScore": 80,
+    "skills": [
+      "SQL",
+      "Flutter",
+      "GraphQL",
+      "Java",
+      "Python"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Freshworks&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-39",
+    "title": "Frontend Developer",
+    "company": "InnovateX",
+    "location": "Delhi, NCR",
+    "type": "Full-time",
+    "salary": "₹7L - ₹9L PA",
+    "minSalary": 7,
+    "minExperience": 2,
+    "postedAt": "4 days ago",
+    "matchScore": 72,
+    "skills": [
+      "React",
+      "Java",
+      "AWS",
+      "Docker"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Wipro&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-40",
+    "title": "System Architect",
+    "company": "TCS",
+    "location": "Bangalore, KA",
+    "type": "Contract",
+    "salary": "₹12L - ₹28L PA",
+    "minSalary": 12,
+    "minExperience": 1,
+    "postedAt": "14 days ago",
+    "matchScore": 80,
+    "skills": [
+      "Java",
+      "Tailwind CSS",
+      "Python",
+      "Node.js"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=WebSolutions&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-41",
+    "title": "DevOps Engineer",
+    "company": "WebSolutions",
+    "location": "Hyderabad, TS",
+    "type": "Contract",
+    "salary": "₹7L - ₹13L PA",
+    "minSalary": 7,
+    "minExperience": 4,
+    "postedAt": "3 days ago",
+    "matchScore": 62,
+    "skills": [
+      "Kubernetes",
+      "React"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=FutureSystems&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-42",
+    "title": "Data Scientist",
+    "company": "TechCorp",
+    "location": "Hyderabad, TS",
+    "type": "Part-time",
+    "salary": "₹11L - ₹27L PA",
+    "minSalary": 11,
+    "minExperience": 3,
+    "postedAt": "6 days ago",
+    "matchScore": 79,
+    "skills": [
+      "Flutter",
+      "Docker",
+      "React",
+      "AWS",
+      "Spring Boot"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Freshworks&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-43",
+    "title": "Product Manager",
+    "company": "Zoho",
+    "location": "Mumbai, MH",
+    "type": "Full-time",
+    "salary": "₹12L - ₹20L PA",
+    "minSalary": 12,
+    "minExperience": 4,
+    "postedAt": "3 days ago",
+    "matchScore": 72,
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "React",
+      "Node.js"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TCS&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-44",
+    "title": "UI/UX Designer",
+    "company": "TCS",
+    "location": "Chennai, TN",
+    "type": "Contract",
+    "salary": "₹9L - ₹14L PA",
+    "minSalary": 9,
+    "minExperience": 6,
+    "postedAt": "10 days ago",
+    "matchScore": 81,
+    "skills": [
+      "Java",
+      "Python",
+      "Node.js",
+      "Tailwind CSS"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=AppWorks&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-45",
+    "title": "UI/UX Designer",
+    "company": "CloudNet",
+    "location": "Bangalore, KA",
+    "type": "Part-time",
+    "salary": "₹5L - ₹18L PA",
+    "minSalary": 5,
+    "minExperience": 5,
+    "postedAt": "13 days ago",
+    "matchScore": 74,
+    "skills": [
+      "Kubernetes",
+      "React",
+      "Flutter",
+      "Spring Boot",
+      "AWS"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=FutureSystems&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-46",
+    "title": "Product Manager",
+    "company": "TCS",
+    "location": "Chennai, TN",
+    "type": "Contract",
+    "salary": "₹5L - ₹10L PA",
+    "minSalary": 5,
+    "minExperience": 4,
+    "postedAt": "1 days ago",
+    "matchScore": 97,
+    "skills": [
+      "Python",
+      "Java",
+      "TypeScript"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=AppWorks&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-47",
+    "title": "Frontend Developer",
+    "company": "CloudNet",
+    "location": "Remote",
+    "type": "Full-time",
+    "salary": "₹4L - ₹15L PA",
+    "minSalary": 4,
+    "minExperience": 0,
+    "postedAt": "1 days ago",
+    "matchScore": 87,
+    "skills": [
+      "Kubernetes",
+      "SQL",
+      "React",
+      "Node.js",
+      "Figma"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TCS&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-48",
+    "title": "Mobile App Developer",
+    "company": "WebSolutions",
+    "location": "Gurgaon, HR",
+    "type": "Part-time",
+    "salary": "₹4L - ₹7L PA",
+    "minSalary": 4,
+    "minExperience": 3,
+    "postedAt": "2 days ago",
+    "matchScore": 74,
+    "skills": [
+      "React",
+      "Node.js"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TechCorp&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-49",
+    "title": "Backend Engineer",
+    "company": "InnovateX",
+    "location": "Bangalore, KA",
+    "type": "Contract",
+    "salary": "₹10L - ₹15L PA",
+    "minSalary": 10,
+    "minExperience": 1,
+    "postedAt": "3 days ago",
+    "matchScore": 70,
+    "skills": [
+      "Spring Boot",
+      "Docker",
+      "AWS",
+      "Figma",
+      "SQL"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TechCorp&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-50",
+    "title": "Data Scientist",
+    "company": "Wipro",
+    "location": "Bangalore, KA",
+    "type": "Freelance",
+    "salary": "₹12L - ₹25L PA",
+    "minSalary": 12,
+    "minExperience": 0,
+    "postedAt": "14 days ago",
+    "matchScore": 62,
+    "skills": [
+      "AWS",
+      "React"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=DataMinds&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-51",
+    "title": "System Architect",
+    "company": "TCS",
+    "location": "Chennai, TN",
+    "type": "Contract",
+    "salary": "₹3L - ₹6L PA",
+    "minSalary": 3,
+    "minExperience": 2,
+    "postedAt": "13 days ago",
+    "matchScore": 94,
+    "skills": [
+      "Next.js",
+      "Flutter",
+      "React",
+      "TypeScript",
+      "Kubernetes"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=AppWorks&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-52",
+    "title": "Data Scientist",
+    "company": "Zoho",
+    "location": "Mumbai, MH",
+    "type": "Contract",
+    "salary": "₹12L - ₹23L PA",
+    "minSalary": 12,
+    "minExperience": 4,
+    "postedAt": "4 days ago",
+    "matchScore": 63,
+    "skills": [
+      "Node.js",
+      "Flutter",
+      "Tailwind CSS",
+      "Java",
+      "React"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Zoho&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-53",
+    "title": "UI/UX Designer",
+    "company": "Zoho",
+    "location": "Bangalore, KA",
+    "type": "Full-time",
+    "salary": "₹11L - ₹24L PA",
+    "minSalary": 11,
+    "minExperience": 7,
+    "postedAt": "7 days ago",
+    "matchScore": 93,
+    "skills": [
+      "Java",
+      "Docker",
+      "Spring Boot"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=WebSolutions&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-54",
+    "title": "Frontend Developer",
+    "company": "TechCorp",
+    "location": "Bangalore, KA",
+    "type": "Full-time",
+    "salary": "₹12L - ₹27L PA",
+    "minSalary": 12,
+    "minExperience": 5,
+    "postedAt": "3 days ago",
+    "matchScore": 87,
+    "skills": [
+      "Spring Boot",
+      "Next.js",
+      "SQL",
+      "Flutter"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Freshworks&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-55",
+    "title": "Backend Engineer",
+    "company": "Freshworks",
+    "location": "Delhi, NCR",
+    "type": "Contract",
+    "salary": "₹12L - ₹17L PA",
+    "minSalary": 12,
+    "minExperience": 6,
+    "postedAt": "14 days ago",
+    "matchScore": 87,
+    "skills": [
+      "React",
+      "Kubernetes",
+      "TypeScript"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=TechCorp&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-56",
+    "title": "QA Engineer",
+    "company": "TCS",
+    "location": "Delhi, NCR",
+    "type": "Freelance",
+    "salary": "₹7L - ₹20L PA",
+    "minSalary": 7,
+    "minExperience": 4,
+    "postedAt": "9 days ago",
+    "matchScore": 91,
+    "skills": [
+      "Python",
+      "Java",
+      "Figma",
+      "React",
+      "Docker"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Zoho&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-57",
+    "title": "Mobile App Developer",
+    "company": "Infosys",
+    "location": "Hyderabad, TS",
+    "type": "Part-time",
+    "salary": "₹12L - ₹21L PA",
+    "minSalary": 12,
+    "minExperience": 7,
+    "postedAt": "2 days ago",
+    "matchScore": 97,
+    "skills": [
+      "Node.js",
+      "Figma",
+      "Kubernetes",
+      "SQL",
+      "React"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=WebSolutions&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-58",
+    "title": "Product Manager",
+    "company": "Zoho",
+    "location": "Pune, MH",
+    "type": "Full-time",
+    "salary": "₹12L - ₹21L PA",
+    "minSalary": 12,
+    "minExperience": 7,
+    "postedAt": "2 days ago",
+    "matchScore": 66,
+    "skills": [
+      "AWS",
+      "Next.js",
+      "React",
+      "Figma"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=Zoho&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-59",
+    "title": "Mobile App Developer",
+    "company": "FutureSystems",
+    "location": "Chennai, TN",
+    "type": "Part-time",
+    "salary": "₹4L - ₹12L PA",
+    "minSalary": 4,
+    "minExperience": 6,
+    "postedAt": "10 days ago",
+    "matchScore": 80,
+    "skills": [
+      "Node.js",
+      "Spring Boot"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=InnovateX&background=random&color=fff&rounded=true"
+  },
+  {
+    "id": "job-60",
+    "title": "Mobile App Developer",
+    "company": "DataMinds",
+    "location": "Noida, UP",
+    "type": "Freelance",
+    "salary": "₹8L - ₹15L PA",
+    "minSalary": 8,
+    "minExperience": 3,
+    "postedAt": "11 days ago",
+    "matchScore": 86,
+    "skills": [
+      "Spring Boot",
+      "React"
+    ],
+    "logo": "https://ui-avatars.com/api/?name=AppWorks&background=random&color=fff&rounded=true"
+  }
+]

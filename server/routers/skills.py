@@ -106,9 +106,9 @@ class RoadmapResponse(BaseModel):
     similar_transitions: SimilarTransitions
 
 
-#  The Logic (Gap Analysis Algorithm)
+# The Logic (Gap Analysis Algorithm)
 def generate_roadmap(current_skills: List[str], target_skills: List[str]) -> RoadmapResponse:
-    # 1. Identify the Gap
+    # Identify the Gap
     current_set = set(current_skills)
     target_set = set(target_skills)
     
@@ -121,7 +121,7 @@ def generate_roadmap(current_skills: List[str], target_skills: List[str]) -> Roa
     else:
         gap_percentage = 0.0
 
-    # 2. Enrich & Topological Sort
+    # Enrich & Topological Sort
     enriched_missing = []
     for skill in missing_skills:
         details = SKILL_TAXONOMY.get(skill)

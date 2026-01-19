@@ -62,7 +62,9 @@ export default function UploadResume() {
         formData.append("file", file);
 
         try {
-            const response = await fetch("http://127.0.0.1:8000/api/upload", {
+            const api_url = process.env.NEXT_PUBLIC_API_URL;
+            
+            const response = await fetch(api_url + "/api/upload", {
                 method: "POST",
                 body: formData,
             });

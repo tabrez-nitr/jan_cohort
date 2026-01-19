@@ -4,7 +4,7 @@ import io
 import re
 from datetime import datetime
 
-from database import db
+
 from models import Resume
 
 router = APIRouter()
@@ -169,15 +169,13 @@ async def upload_resume_endpoint(file: UploadFile = File(...)):
         resume_data = Resume(**parsed_data)
     except Exception as e:
         print(f"Validation Error: {e}")
+        # In case of validation error, we can either raise HTTP error or return raw data.
+        # For now, let's allow it but maybe with a warning, or strict validation?
+        # Reverting to strict validation as before:
         raise HTTPException(status_code=500, detail="Error validating parsed data against schema.")
 
-    # Insert into MongoDB
-    res = await db.resumes.insert_one(resume_data.dict())
-    
-    # Return the saved data with ID (converted to string)
+    # Return the validated data
     response_data = resume_data.dict()
-    response_data["_id"] = str(res.inserted_id)
-
     print(response_data)
     return response_data 
 

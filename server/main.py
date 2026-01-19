@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel 
 from routers.upload import router as upload_router
 from routers.skills import router as skills_router
+import os
 # for data validation (like schema)
 
 app = FastAPI()
@@ -10,7 +11,10 @@ app = FastAPI()
 # allow all origins (for development)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins = [
+    os.environ.get("FRONTEND_URL"),
+    "http://localhost:3000",
+],
     allow_credentials=True, # allow cookies
     allow_methods=["*"],
     allow_headers=["*"],
